@@ -62,6 +62,8 @@ figure {
 	float:right;
 	border-style: solid;
 	margin: 50px;
+	border-width: 2px;
+	padding: 10px;
 }
 
 .caption {
@@ -74,4 +76,11 @@ ul {
 
 ol {
 	font-family: sans-serif;
+}
+
+#contents {
+	background-color: #E8E8E8;
+	margin: 10px;
+	padding: 5px;
+	border: 2px black solid;
 }
